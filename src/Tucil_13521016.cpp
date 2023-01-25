@@ -115,7 +115,7 @@ bool iskartu(string kartu) {
     {
         return true;
     }
-    else if (kartu == "1" || kartu == "2" || kartu == "3" || kartu == "4" || kartu == "5" || kartu == "6" || kartu == "7" || kartu == "8" || kartu == "9" || kartu == "10" || kartu == "11" || kartu == "12" || kartu == "13")
+    else if (kartu == "2" || kartu == "3" || kartu == "4" || kartu == "5" || kartu == "6" || kartu == "7" || kartu == "8" || kartu == "9" || kartu == "10")
     {
         return true;
     }
